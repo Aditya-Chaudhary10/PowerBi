@@ -1,0 +1,23 @@
+Sales Dashboard 
+Overview
+This Sales Dashboard in Power BI provides a comprehensive view of sales data, allowing users to analyze performance according to profit, category, and state. It offers insights into various aspects of sales to aid in decision-making and strategy development.
+
+Features
+Profit Analysis: Visualizations to track profits over time, compare profit margins, and identify trends.
+Category Comparison: Comparison of sales performance across different product categories.
+State-wise Analysis: Geographic analysis showing sales data distributed by state.
+Getting Started
+Prerequisites
+Power BI Desktop (latest version recommended) installed on your machine.
+Installation
+Clone or download the repository to your local machine.
+Open Power BI Desktop.
+Navigate to File > Open > [Select the downloaded .pbix file].
+Usage
+Upon opening the dashboard in Power BI Desktop, navigate to different tabs for specific analyses.
+Interact with visualizations by clicking on them to filter data dynamically.
+Utilize filters and slicers provided to refine the view according to specific criteria.
+Export or share the insights generated as needed.
+Data Sources
+The dashboard is connected to one or multiple data sources containing sales data.
+Ensure that the data sources are correctly configured and accessible to Power BI Desktop.
